@@ -6,7 +6,7 @@ package io.jitpack;
  */
 public class App 
 {
-    public static final String GREETING = "Hello World 9!";
+    public static final String GREETING = "Hello World 10!";
     
     public static void main( String[] args )
     {
